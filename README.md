@@ -13,7 +13,7 @@ O objetivo foi colocar em prática os principais conceitos aprendidos, criando u
 
 ## 🚀 Acesse o site
 
-➡️ [Clique aqui para ver o site funcionando](https://github.com/AkiraMarinho/Seal-World/)
+➡️ [Clique aqui para ver o site funcionando](https://akiramarinho.github.io/Seal-World/)
 
 ## 📁 Como rodar localmente
 
